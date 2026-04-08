@@ -54,7 +54,7 @@ export default function Courses() {
                 <img
                   src={course.img}
                   alt={course.title}
-                  className="w-full h-48 object-cover group-hover:scale-110 transition duration-500"
+                  className="w-full h-50 object-cover group-hover:scale-110 transition duration-500"
                 />
               </div>
 
