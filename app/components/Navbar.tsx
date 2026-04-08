@@ -75,7 +75,7 @@ export default function Navbar() {
 
         {/* Mobile Enroll Button */}
         <a
-          href="tel:+91XXXXXXXXXX"
+          href="tel:+916367614340"
           className="mt-6 bg-black text-white px-6 py-3 rounded-lg hover:bg-gray-800 transition"
         >
           Enroll Now

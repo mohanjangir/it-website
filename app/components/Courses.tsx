@@ -4,27 +4,27 @@ import { useState } from "react";
 const courses = [
   {
     title: "Full Stack Development",
-    img: "/courses.jpeg",
+    img: "/fullstack.jpeg",
   },
   {
-    title: "React & TypeScript",
-    img: "/courses.jpeg",
-  },
-  {
-    title: "Python Programming",
-    img: "/courses.jpeg",
-  },
-  {
-    title: "Web Design",
-    img: "/courses.jpeg",
-  },
-  {
-    title: "Node.js Backend",
-    img: "/courses.jpeg",
+    title: "Web Development",
+    img: "/webdevelopment.jpeg",
   },
   {
     title: "Digital Marketing",
-    img: "/courses.jpeg",
+    img: "/digital.jpeg",
+  },
+  {
+    title: "UI/UX Design",
+    img: "/ui.jpeg",
+  },
+  {
+    title: "Graphic Design",
+    img: "/graphic.jpeg",
+  },
+  {
+    title: "C/C++",
+    img: "/c.jpeg",
   },
 ];
 
