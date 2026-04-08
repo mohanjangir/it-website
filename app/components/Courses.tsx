@@ -110,10 +110,10 @@ export default function Courses() {
                   const message = `Course Enquiry\nName: ${name}\nPhone: ${phone}`;
 
                   window.open(
-                    `https://wa.me/91XXXXXXXXXX?text=${encodeURIComponent(message)}`
+                    `https://wa.me/916367614340?text=${encodeURIComponent(message)}`
                   );
 
-                  window.location.href = `mailto:youremail@gmail.com?subject=Course Enquiry&body=${message}`;
+                  window.location.href = `techtonicinovation@gmail.com?subject=Course Enquiry&body=${message}`;
 
                   setOpen(false);
                 }}
